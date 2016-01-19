@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiffThis", "DiffThis\DiffThis.csproj", "{6FC43144-1CBB-41AB-B4D0-02D2ADB5F408}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiffThisUtils", "DiffThisUtils\DiffThisUtils.csproj", "{FA72E3AB-2864-4E02-B846-1798BF35BEE1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FC43144-1CBB-41AB-B4D0-02D2ADB5F408}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FC43144-1CBB-41AB-B4D0-02D2ADB5F408}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FC43144-1CBB-41AB-B4D0-02D2ADB5F408}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FC43144-1CBB-41AB-B4D0-02D2ADB5F408}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA72E3AB-2864-4E02-B846-1798BF35BEE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA72E3AB-2864-4E02-B846-1798BF35BEE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA72E3AB-2864-4E02-B846-1798BF35BEE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA72E3AB-2864-4E02-B846-1798BF35BEE1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
